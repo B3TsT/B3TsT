@@ -1,4 +1,4 @@
-# Hello there I am B3TsT
+# Hello there, I am B3TsT👋
 <p align = center ><img src="header_white_.png"> </p>
 <div>
 <img align="right" width="350" alt="Shimarin" src="lateral.png"/>
