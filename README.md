@@ -30,6 +30,8 @@
     <img src = "https://img.shields.io/badge/GITHUB-black?style=for-the-badge&logo=github&logoColor=white" alt = "github" />
     <img src = "https://img.shields.io/badge/php-4420B0?style=for-the-badge&logo=php&logoColor=white" alt = "php" />
     <img src = "https://img.shields.io/badge/laravel-F7DDBD?style=for-the-badge&logo=laravel&logoColor=F82403" alt = "laravel" />
+    <img src = "https://img.shields.io/badge/mysql-grey?style=for-the-badge&logo=Mysql&logoColor=white" alt = "MySQL" />
+    <img src = "https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=MongoDB&logoColor=white" alt = "MongoDB" />
 
   - <h5>Currently learning</h5>
     <img src = "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt = "ts" />
